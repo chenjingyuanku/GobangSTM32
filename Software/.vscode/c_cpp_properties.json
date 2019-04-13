@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Cortex-M3",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "F:\\GNU_Tools_ARM_Embedded\\5.4_2016q3\\arm-none-eabi\\include"
+            ],
+            "defines": [
+                "STM32F103xB",
+                "USE_HAL_DRIVER"
+            ],
+            "compilerPath": "F:\\GNU_Tools_ARM_Embedded\\5.4_2016q3\\bin\\arm-none-eabi-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
